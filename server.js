@@ -1,5 +1,5 @@
 //                     PIXEL TRACKER
-//   https://github.com/linuxwasnotavailable/pixel-tracker
+//   https://github.com/linuxthebaddev/pixel-tracker
 //
 // Copyright (C) 2021 linuxthebaddev
 // This program is free software: you can redistribute it and/or modify
